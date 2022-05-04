@@ -1,0 +1,15 @@
+D:\c#\PlatziEscuela\bin\Debug\net6.0\PlatziEscuela.exe
+D:\c#\PlatziEscuela\bin\Debug\net6.0\PlatziEscuela.deps.json
+D:\c#\PlatziEscuela\bin\Debug\net6.0\PlatziEscuela.runtimeconfig.json
+D:\c#\PlatziEscuela\bin\Debug\net6.0\PlatziEscuela.dll
+D:\c#\PlatziEscuela\bin\Debug\net6.0\PlatziEscuela.pdb
+D:\c#\PlatziEscuela\obj\Debug\net6.0\PlatziEscuela.csproj.AssemblyReference.cache
+D:\c#\PlatziEscuela\obj\Debug\net6.0\PlatziEscuela.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\PlatziEscuela\obj\Debug\net6.0\PlatziEscuela.AssemblyInfoInputs.cache
+D:\c#\PlatziEscuela\obj\Debug\net6.0\PlatziEscuela.AssemblyInfo.cs
+D:\c#\PlatziEscuela\obj\Debug\net6.0\PlatziEscuela.csproj.CoreCompileInputs.cache
+D:\c#\PlatziEscuela\obj\Debug\net6.0\PlatziEscuela.dll
+D:\c#\PlatziEscuela\obj\Debug\net6.0\refint\PlatziEscuela.dll
+D:\c#\PlatziEscuela\obj\Debug\net6.0\PlatziEscuela.pdb
+D:\c#\PlatziEscuela\obj\Debug\net6.0\PlatziEscuela.genruntimeconfig.cache
+D:\c#\PlatziEscuela\obj\Debug\net6.0\ref\PlatziEscuela.dll
